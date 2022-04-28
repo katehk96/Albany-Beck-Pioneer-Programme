@@ -1,0 +1,5 @@
+Objective: to build an Order Book script using Python
+
+Stock traders/clients can place add/cancel/replace orders (buy/sell)
+View their order status
+View trade history
