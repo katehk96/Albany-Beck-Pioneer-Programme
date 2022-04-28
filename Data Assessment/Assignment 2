@@ -1,0 +1,15 @@
+Objective: To build OLTP and OLAP system for a real estate company.
+
+Tasks (OLTP):
+- Design a relational model for the database
+- Based on the physical design, produce a SQL script to create appropriate tables
+- Populate the tables
+- Answer the following queries:
+    a) Display names of representatives, details of the properties they represent, and names of their supervisors
+    b) Display details of customers together with details of their areas and names of the managers of their areas
+    
+Tasks (OLAP):
+- Using Kimball's methodology, design a dimensional model
+- Produce a SQL script to create appropriate tables
+- Move appropriate data from the OLTP to the OLAP system, consider applying ETL operations
+- Use a data visualisation tool to analyse various associations within the given dataset and demonstrate various types of graphical representations
